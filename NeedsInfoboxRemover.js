@@ -194,7 +194,7 @@ async function runNeedsInfoboxRemover() {
                 action: 'edit',
                 title: talkPageTitle,
                 text: updatedText,
-                summary: 'Removed needs-infobox tag(s) using Needs Infobox Remover script ' + SCRIPT_VERSION + '.',
+                summary: 'Scripted edit to remove needs-infobox tag(s) using [[User:Widgetkid/NeedsInfoboxRemover.js|NeedsInfoboxRemover]] ' + SCRIPT_VERSION + '.',
                 minor: true,
                 watchlist: 'nochange',
                 nocreate: true,
